@@ -1,4 +1,6 @@
 # Tesme
+"Бул колдонмо толугу менен менин жеке долбоорлоомдун жана иштеп чыгуумдун продуктусу. Колдонмонун ичинде мен маалыматтарды сактоо үчүн Hive маалымат базасын киргиздим жана Тиркемени натыйжалуу башкаруу үчүн Провайдер(StateManagement) пакетин ишке киргиздим."
+
 "This application is entirely a product of my own design and development. 
 Within the application, I have incorporated the Hive database for data storage,
 and I've implemented the Provider package for efficient state management."
